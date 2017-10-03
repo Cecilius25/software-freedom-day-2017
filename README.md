@@ -44,7 +44,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 12:30 a 01:15 |  |  ||
 | 01:15 a 02:00 | Infraestrutura Open-Source | [Oscar Marrugo Ricardo](https://pa.linkedin.com/in/oscar-marrugo-ricardo-a558a573) ||
 | 02:00 a 02:45 | Introducción al Web Scraping| [Luis Manuel](https://github.com/blackfile) ||
-| 02:45 a 03:15 | Vue.js | [Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
+| 02:45 a 03:15 | Hagamos un mobile App con NativeScript y Vuejs | [Zahir Gudiño](https://twitter.com/zgudino?lang=es)|| 
 | 03:15 a 04:00 | Diseño de personajes con Inkscape | [Julián Vega](http://www.arpiasoftware.com/) ||
 
 
