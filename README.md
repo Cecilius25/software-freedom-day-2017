@@ -3,7 +3,7 @@
 ### Fecha:  7 de octubre del 2017
 ### Lugar: Auditorio de la Universidad Interamericana de Panamá (UIP)
 
-### Te invitamos a registrate para participar de los premios desde [Eventbrite.](https://www.eventbrite.com/e/software-freedom-day-tickets-38042449992)
+### Te invitamos a registrarte para participar de los premios desde [Eventbrite.](https://www.eventbrite.com/e/software-freedom-day-tickets-38042449992)
 
 
 ## Objetivo
@@ -53,4 +53,10 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 - #### [¿Qué es Software Libre?](/info/whatis.md)
 
 ## Patrocinadores
-![UIP]( http://portal.uip.edu.pa/resources/images/institutions/banner_uip.png) ![Rootstack](https://www.drupal.org/files/Rootstack_0.png) ![Fedora](https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png) ![Elconix](http://www.elconix.com/wp-content/uploads/2014/05/logo_elconix.png) ![Ethical Hacking Consultores](http://ehacking.com.bo/wp-content/uploads/2015/05/nlogoEHC.png)
+
+![UIP](http://portal.uip.edu.pa/login-cedula/images/logo.png) ![Elconix](http://www.elconix.com/wp-content/uploads/2014/05/logo_elconix.png) 
+
+![Fedora](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fedora_logo_and_wordmark.svg/320px-Fedora_logo_and_wordmark.svg.png)  ![Roostack](https://www.drupal.org/files/Rootstack_0.png) 
+
+<img src="https://tokenmarket.net/blockchain/ethereum/assets/decent-bet/logo_big.png"  width="170"> ![Ethical Hacking](http://ehacking.com.bo/wp-content/uploads/2015/05/nlogoEHC.png)
+
