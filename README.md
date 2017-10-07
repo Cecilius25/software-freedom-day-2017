@@ -22,7 +22,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 10:00 a 10:30 | Big Data: Tomar decisiones inteligentes también puede ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
 | 10:30 a 11:00 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
 | 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
-| 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD]()||
+| 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD](https://github.com/floss-pa/software-freedom-day-2017#patrocinadores)||
 | 12:15 a 12:45 | __Almuerzo (SFD lunch)__ |||
 | 12:45 a 01:15  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
 | 01:15 a 02:00 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
