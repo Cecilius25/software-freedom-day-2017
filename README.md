@@ -18,16 +18,15 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 ## Conferencias
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
 |---------------|----------------------------------------------------------------------|----------------|----------|
-| 09:00 a 09:15 | Bienvenida                                                           | FLOSSPA        |          |
-| 09:15 a 09:45 | Big Data: Tomar decisiones inteligentes también puede ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
-| 09:45 a 10:15 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
-| 10:15 a 10:45 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
-| 10:45 a 11:15 | Mozilla, Firefox y Otras Iniciativas | [Omar Vasquez](https://mozillians.org/es/u/omar.vasquezlima/) ||
-| 11:15 a 12:00 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD]()||
-| 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
-| 12:30 a 1:00  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
-| 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
-| 01:30 a 02:00 | Hablemos de Computación Cuántica| [Carlos Fernández]()||
+| 09:00 a 10:00 | Bienvenida                                                           | FLOSSPA        |          |
+| 10:00 a 10:30 | Big Data: Tomar decisiones inteligentes también puede ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
+| 10:30 a 11:00 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
+| 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
+| 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD]()||
+| 12:15 a 12:45 | __Almuerzo (SFD lunch)__ |||
+| 12:45 a 01:15  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
+| 01:15 a 02:00 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
+| 02:00 a 02:30 | Hablemos de Computación Cuántica| [Carlos Fernández]()||
 | 02:30 a 03:00 | Diseño Gráfico Open-Source | [Julián Vega](http://www.arpiasoftware.com/)| 
 | 03:00 a 03:30 | Creative Commons (Licenciamiento)|[Lia Hernández]()||  
 | 03:30 a 04:00 | What is a Data Scientist? Reasons why Fedora is the best OS for Big Data | [José Reyes](https://github.com/yosef7/) ||
@@ -35,7 +34,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 ## Talleres
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
 |---------------|----------------------------------------------------------------------|----------------|----------|
-| 09:00 a 09:30| Bienvenida                                                           | FLOSSPA        |          |
+| 09:00 a 10:00| Bienvenida                                                           | FLOSSPA        |          |
 | 09:45 a 10:30 | Gestión de proyectos con Git y GitHub| [David Lopez](https://twitter.com/David25LO?lang=es) ||
 | 10:30 a 11:15 | Producción de audio y video utilizando la suite de Ubuntu Studio | [Krishna Torres]() ||
 | 11:15 a 12:00 |  |  ||
