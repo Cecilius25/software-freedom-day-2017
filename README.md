@@ -24,7 +24,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 10:15 a 10:45 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
 | 10:45 a 11:15 | Mozilla, Firefox y Otras Iniciativas | [Omar Vasquez](https://mozillians.org/es/u/omar.vasquezlima/) ||
 | 11:15 a 12:00 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD]()||
-| 12:45 a 12:30 | __Almuerzo (SFD lunch)__ |||
+| 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
 | 12:30 a 1:00  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
 | 01:00 a 01:30 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
 | 01:30 a 02:00 | Hablemos de Computación Cuántica| [Carlos Fernández]()||
