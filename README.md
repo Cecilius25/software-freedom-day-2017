@@ -18,7 +18,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 ## Conferencias
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
 |---------------|----------------------------------------------------------------------|----------------|----------|
-| 09:00 a 10:00 | Bienvenida                                                           | FLOSSPA        |          |
+| 09:00 a 10:00 | Bienvenida                                                           | FLOSSPA        |   SPC1       |
 | 10:00 a 10:30 | Big Data: Tomar decisiones inteligentes también puede ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
 | 10:30 a 11:00 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
 | 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
@@ -31,7 +31,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 03:00 a 03:30 | Creative Commons (Licenciamiento)|[Lia Hernández]()||  
 | 03:30 a 04:00 | What is a Data Scientist? Reasons why Fedora is the best OS for Big Data | [José Reyes](https://github.com/yosef7/) ||
 
-## Talleres
+## Talleres SPC1
 |     HORA      |                                Tema                                  |  Conferencista | Ubicación|
 |---------------|----------------------------------------------------------------------|----------------|----------|
 | 09:00 a 10:00| Bienvenida                                                           | FLOSSPA        |          |
