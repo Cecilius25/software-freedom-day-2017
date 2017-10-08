@@ -21,14 +21,14 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 09:00 a 09:45 | Bienvenida                                                           | FLOSSPA        |   SPC1       |
 | 10:00 a 10:30 | Big Data: Tomar decisiones inteligentes también puede ser Free | [Cecilio Niño](https://pa.linkedin.com/in/cecilio-niño-aa778a39) ||
 | 10:30 a 11:00 | Ingeniería Social con Social-Engineering Toolkit (SET) | [Leonardo Esqueda](https://github.com/ShaoranD3) ||
-| 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ]() ||
-| 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD]()||
+| 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ](https://github.com/floss-pa/software-freedom-day-2017) ||
+| 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD](https://github.com/floss-pa/software-freedom-day-2017#patrocinadores)||
 | 12:15 a 12:45 | __Almuerzo (SFD lunch)__ |||
 | 12:45 a 01:15  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
 | 01:15 a 02:00 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
-| 02:00 a 02:30 | Hablemos de Computación Cuántica| [Carlos Fernández]()||
+| 02:00 a 02:30 | Hablemos de Computación Cuántica| [Carlos Fernández](https://github.com/floss-pa/software-freedom-day-2017)||
 | 02:30 a 03:00 | Diseño Gráfico Open-Source | [Julián Vega](http://www.arpiasoftware.com/)| 
-| 03:00 a 03:30 | Creative Commons (Licenciamiento)|[Lia Hernández]()||  
+| 03:00 a 03:30 | Creative Commons (Licenciamiento)|[Lia Hernández](https://github.com/floss-pa/software-freedom-day-2017)||  
 | 03:30 a 04:00 | What is a Data Scientist? Reasons why Fedora is the best OS for Big Data | [José Reyes](https://github.com/yosef7/) ||
 
 ## Talleres 
@@ -37,7 +37,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 |---------------|----------------------------------------------------------------------|----------------|----------|
 | 09:00 a 09:45| Bienvenida                                                           | FLOSSPA        |          |
 | 09:45 a 10:30 | Gestión de proyectos con Git y GitHub| [David Lopez](https://twitter.com/David25LO?lang=es) ||
-| 10:30 a 11:15 | Producción de audio y video utilizando la suite de Ubuntu Studio | [Krishna Torres]() ||
+| 10:30 a 11:15 | Producción de audio y video utilizando la suite de Ubuntu Studio | [Krishna Torres](https://github.com/floss-pa/software-freedom-day-2017) ||
 | 11:15 a 12:00 |  |  ||
 | 12:00 a 12:30 | __Almuerzo (SFD lunch)__ |||
 | 12:30 a 01:15 |  |  ||
@@ -53,7 +53,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 
 ## Organizado por:
 - ### Comunidad de Floss Panamá
-- ### [Adbel Martinez](https://twitter.com/abdelgmartinezl), [Maryon Torres](https://twitter.com/maryitotr), [Shelsy Chanis](https://twitter.com/shelsxacm), [José Reyes](https://yoseft7.wordpress.com/), [Luis Mora](), [Sebastian Torres](), [David Lopez](https://twitter.com/David25LO?lang=es)
+- ### [Adbel Martinez](https://twitter.com/abdelgmartinezl), [Maryon Torres](https://twitter.com/maryitotr), [Shelsy Chanis](https://twitter.com/shelsxacm), [José Reyes](https://yoseft7.wordpress.com/), [Luis Mora](https://github.com/floss-pa/software-freedom-day-2017), [Sebastian Torres](https://github.com/floss-pa/software-freedom-day-2017), [David Lopez](https://twitter.com/David25LO?lang=es)
 
 ## Patrocinadores
 
