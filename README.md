@@ -24,7 +24,7 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 | 11:00 a 11:30 | Fintech/Blockchain (Criptomonedas)| [Felipe Echandi ](https://github.com/floss-pa/software-freedom-day-2017) ||
 | 11:30 a 12:15 | Mesa Redonda junto a patrocinadores |[Patrocinadores del SFD](https://github.com/floss-pa/software-freedom-day-2017#patrocinadores)||
 | 12:15 a 12:45 | __Almuerzo (SFD lunch)__ |||
-| 12:45 a 01:15  | Docker y su aplicación en la industria |[Alberto Castillo](http://albertocg.com/)|| 
+| 12:45 a 01:15  | Docker y su aplicación en la industria - [Presentación](https://docs.google.com/presentation/d/1xDDKIVy4noQNM_lMGUsHqr1WvvArIxC-p2SRjOcdvc0/edit?usp=sharing) |[Alberto Castillo](http://albertocg.com/)|| 
 | 01:15 a 02:00 | Internet of Things: Protocols, Evolution and Why you should care about. | [Kiara Navarro](https://www.kiaranavarro.com/)||
 | 02:00 a 02:30 | Hablemos de Computación Cuántica| [Carlos Fernández](https://github.com/floss-pa/software-freedom-day-2017)||
 | 02:30 a 03:00 | Diseño Gráfico Open-Source | [Julián Vega](http://www.arpiasoftware.com/)| 
