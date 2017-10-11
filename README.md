@@ -11,8 +11,6 @@ Promocionar el software libre en la comunidad,
 con fin de lograr que se tenga mayor conocimiento en las 
 diferentes áreas y puedan aplicarlo en su vida cotidiana.
 
-
-
 # Planificación
 
 ## Conferencias
@@ -58,7 +56,3 @@ diferentes áreas y puedan aplicarlo en su vida cotidiana.
 ## Patrocinadores
 
 <img src="http://portal.uip.edu.pa/login-cedula/images/logo.png" width="170"> <img src="http://www.elconix.com/wp-content/uploads/2014/05/logo_elconix.png" width="170"> <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png" width="170"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fedora_logo_and_wordmark.svg/320px-Fedora_logo_and_wordmark.svg.png" width="170"> <img src="https://www.drupal.org/files/Rootstack_0.png" width="170"> <img src="http://ehacking.com.bo/wp-content/uploads/2015/05/nlogoEHC.png" width="170"> <img src=https://www.python.org/static/community_logos/python-logo-master-v3-TM.png width="250">  <img src="https://tokenmarket.net/blockchain/ethereum/assets/decent-bet/logo_big.png" width="100">
-
-
-
-
